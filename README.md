@@ -33,7 +33,7 @@ License -> https://github.com/DeccanBotz/Google-Translate/blob/main/LICENSE
 ### Deploy to Heroku
 * [Tutorial](https://youtu.be/vuJ9K6ppxak)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/really650/Google-Translate)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/really650a/Google-Translate)
 
 ### 👨‍💻 Dev
 

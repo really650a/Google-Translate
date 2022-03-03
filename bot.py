@@ -57,21 +57,21 @@ START_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton('Owner 👨‍💻', url=f"https://telegram.me/{OWNER}")
         ],[
-        InlineKeyboardButton('Tutorial 📺', url='https://telegram.me/Deccan_Supportz')
+        InlineKeyboardButton('Tutorial 📺', url='https://telegram.me/Oro_tech_tips')
         ]]
     )
 HELP_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton('Owner 👨‍💻', url=f"https://telegram.me/{OWNER}")
         ],[
-        InlineKeyboardButton('Tutorial 📺', url='https://telegram.me/Deccan_Supportz')
+        InlineKeyboardButton('Tutorial 📺', url='https://telegram.me/Oro_tech_tips')
         ]]
     )
 ABOUT_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Owner 👨‍💻', url=f"https://telegram.me/{OWNER}")
+        InlineKeyboardButton('☎️Owner 👨‍💻', url=f"https://telegram.me/{OWNER}")
         ],[
-        InlineKeyboardButton('Tutorial 📺', url='https://telegram.me/Deccan_Supportz')
+        InlineKeyboardButton('📠Tutorial 📺', url='https://telegram.me/Oro_tech_tips')
         ]]
     )
 
@@ -103,7 +103,7 @@ def echo(client, message):
         [
         InlineKeyboardButton("English", callback_data='en'),
         InlineKeyboardButton("Tamil", callback_data='ta'),
-        InlineKeyboardButton("Telugu",callback_data='te')
+        InlineKeyboardButton("Amharic",callback_data='am')
         ],
         [
         InlineKeyboardButton("Hindi", callback_data='hi'),

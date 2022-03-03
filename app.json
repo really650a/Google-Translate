@@ -1,9 +1,9 @@
 {
     "name": "Google Translater",
     "description": "This Bot can translate the text in supported languages",
-    "repository": "https://github.com/DeccanBotz/Google-Translate",
+    "repository": "https://github.com/really650a/Google-Translate",
     "logo": "https://telegra.ph/file/73a6f6a32764f9795af3d.jpg" ,
-    "keywords": ["Google Translater", "really650", "telegram bot"],
+    "keywords": ["Google Translater", "really650a", "telegram bot"],
     "env": {
         "TOKEN": {
             "description": "Your Bot token from @Botfather"

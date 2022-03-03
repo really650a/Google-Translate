@@ -64,14 +64,14 @@ HELP_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton('Owner 👨‍💻', url=f"https://telegram.me/{OWNER}")
         ],[
-        InlineKeyboardButton('Tutorial 📺', url='https://telegram.me/Deccan_Supportz')
+        InlineKeyboardButton('Tutorial 📺', url='https://telegram.me/really650')
         ]]
     )
 ABOUT_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton('Owner 👨‍💻', url=f"https://telegram.me/{OWNER}")
         ],[
-        InlineKeyboardButton('Tutorial 📺', url='https://telegram.me/Deccan_Supportz')
+        InlineKeyboardButton('Tutorial 📺', url='https://telegram.me/really650')
         ]]
     )
 
